@@ -1,9 +1,9 @@
-Package: dev.mineek.appstoretroller
-Name: appstoretroller
-Version: 0.0.1
+Package: appstoretroller.joshattic.us
+Name: AppStoreTroller
+Version: 0.0.2
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Mineek
-Author: Mineek
+Description: Purchase apps to your Apple ID that require a newer iOS version than the one you're running on your device
+Maintainer: JoshAtticus
+Author: Mineek, JoshAtticus
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000) | com.ex.libhooker (>= 1.0)
