@@ -1,7 +1,7 @@
 Package: appstoretroller.joshattic.us
 Name: AppStoreTroller
-Version: 0.0.2
-Architecture: iphoneos-arm
+Version: 0.0.4
+Architecture: iphoneos-arm64
 Description: Purchase apps to your Apple ID that require a newer iOS version than the one you're running on your device
 Maintainer: JoshAtticus
 Author: Mineek, JoshAtticus
