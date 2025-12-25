@@ -6,4 +6,4 @@ Description: Purchase apps to your Apple ID that require a newer iOS version tha
 Maintainer: JoshAtticus
 Author: Mineek, JoshAtticus
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000) | com.ex.libhooker (>= 1.0)
+Depends: org.coolstar.libhooker
